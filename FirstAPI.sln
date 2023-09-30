@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAPI", "FirstAPI\FirstAPI.csproj", "{F042F89D-7E41-448F-8B76-05E6C242A64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F042F89D-7E41-448F-8B76-05E6C242A64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F042F89D-7E41-448F-8B76-05E6C242A64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F042F89D-7E41-448F-8B76-05E6C242A64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F042F89D-7E41-448F-8B76-05E6C242A64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
